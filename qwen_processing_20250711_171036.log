@@ -1,0 +1,9 @@
+2025-07-11 17:10:36,092 - INFO - 🚀 Starting Qwen Ultra Fast Image Processing
+2025-07-11 17:10:36,092 - INFO - 💻 Device: mps
+2025-07-11 17:10:36,092 - INFO - 📁 Log file: qwen_processing_20250711_171036.log
+2025-07-11 17:10:36,092 - INFO - 🚀 Fast mode enabled
+2025-07-11 17:10:36,092 - INFO - 🔄 Attempting to load model: Qwen/Qwen2-VL-7B-Instruct
+2025-07-11 17:10:45,922 - WARNING - Some parameters are on the meta device because they were offloaded to the disk.
+2025-07-11 17:10:51,824 - INFO - ✅ Successfully loaded model: Qwen/Qwen2-VL-7B-Instruct
+2025-07-11 17:11:05,243 - INFO - 🖼️  Processing image: /Users/tanmaydikshit/Desktop/Personal/ML A-Z/Practice/Data Preprocessing/qwen_silicon/WhatsApp Image 2025-03-28 at 16.05.03 (1).jpeg
+2025-07-11 17:11:05,277 - INFO - 📏 Image dimensions: (900, 1600)
